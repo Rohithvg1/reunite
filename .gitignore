@@ -1,0 +1,12 @@
+/data/*
+!/data/.htaccess
+/uploads/*
+!/uploads/.htaccess
+/.env
+/.env.*
+*.log
+*.bak
+*.sql.gz
+*credentials*.txt
+/.DS_Store
+/Thumbs.db
